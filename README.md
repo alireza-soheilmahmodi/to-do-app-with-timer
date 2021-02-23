@@ -1,3 +1,7 @@
+to do app with timer created with react js
+
+live demo at: https://mysterious-waters-84427.herokuapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
